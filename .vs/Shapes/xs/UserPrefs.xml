@@ -1,14 +1,19 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Shapes/Class1.cs">
+  <MonoDevelop.Ide.ItemProperties.ShapesTest FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShapesTest/UnitTest1.cs">
     <Files>
-      <File FileName="Shapes/Class1.cs" Line="5" Column="22" />
+      <File FileName="Shapes/Class1.cs" Line="8" Column="6" />
+      <File FileName="Shapes/Cricle.cs" Line="4" Column="22" />
+      <File FileName="Shapes/Triangle.cs" Line="56" Column="1" />
+      <File FileName="ShapesTest/UnitTest1.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Shapes" expanded="True">
-            <Node name="Shapes" expanded="True">
-              <Node name="Class1.cs" selected="True" />
+            <Node name="Shapes" expanded="True" />
+            <Node name="ShapesTest" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -16,7 +21,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Shapes FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

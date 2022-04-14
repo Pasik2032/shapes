@@ -1,0 +1,10 @@
+/Users/pasik/Projects/Shapes/Shapes/bin/Debug/netstandard2.1/Shapes.deps.json
+/Users/pasik/Projects/Shapes/Shapes/bin/Debug/netstandard2.1/Shapes.dll
+/Users/pasik/Projects/Shapes/Shapes/bin/Debug/netstandard2.1/Shapes.pdb
+/Users/pasik/Projects/Shapes/Shapes/obj/Debug/netstandard2.1/Shapes.csproj.AssemblyReference.cache
+/Users/pasik/Projects/Shapes/Shapes/obj/Debug/netstandard2.1/Shapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pasik/Projects/Shapes/Shapes/obj/Debug/netstandard2.1/Shapes.AssemblyInfoInputs.cache
+/Users/pasik/Projects/Shapes/Shapes/obj/Debug/netstandard2.1/Shapes.AssemblyInfo.cs
+/Users/pasik/Projects/Shapes/Shapes/obj/Debug/netstandard2.1/Shapes.csproj.CoreCompileInputs.cache
+/Users/pasik/Projects/Shapes/Shapes/obj/Debug/netstandard2.1/Shapes.dll
+/Users/pasik/Projects/Shapes/Shapes/obj/Debug/netstandard2.1/Shapes.pdb
